@@ -1,0 +1,1 @@
+scrapy crawl xn -o xn.csv
